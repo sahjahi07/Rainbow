@@ -3,5 +3,6 @@ Orange
 Gelb
 Grün 
 Blau
+dunkelblau
 Indigo
 Violett
